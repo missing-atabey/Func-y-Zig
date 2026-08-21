@@ -1,0 +1,231 @@
+#+TITLE: The Athena License
+#+SUBTITLE: Version 0.2
+#+AUTHOR: Missing-Atabey
+#+DATE: 2026
+#+Source: https://github.com/missing-atabey/Func-y-Zig
+
+A Human-Centered, Peace-Oriented, Source-Available Software License
+
+* For use with: Func-y-Zig
+Copyright (c) 2026 Missing-Atabey
+* Preamble
+
+The Athena License (TAL) exists to preserve the freedom of people to study, use, modify, and share software while establishing ethical limitations on uses that are inconsistent with the Licensor's intent.
+
+Modern software has become a foundational component of scientific discovery, education, commerce, accessibility, medicine, engineering, and countless other beneficial endeavors. The Licensor encourages these uses and believes that software should continue to empower individuals and communities.
+
+At the same time, emerging technologies present novel ethical concerns. Large-scale generative artificial intelligence systems and military applications may contribute to societal harms, including but not limited to displacement of human creative labor, unauthorized appropriation of creative works, concentration of computational resources, environmental impacts associated with large-scale computational infrastructure, and the development or deployment of systems intended to facilitate armed conflict.
+
+Accordingly, this License grants broad rights to use, study, modify, and redistribute the Software while restricting specific categories of use that conflict with these principles.
+
+Nothing in this Preamble shall be interpreted as creating enforceable obligations. The operative provisions are contained within the License Terms.
+* Guiding Principles (Non-Binding)
+
+The Athena License is founded upon four principles:
+- *Human creativity deserves respect.*
+Software should not be used to facilitate systems that appropriate or replace human creative expression through generative modeling.
+
+- *Science benefits humanity.*
+Research, engineering, medicine, accessibility, and education should remain unrestricted wherever possible.
+
+- *Technology should preserve life.*
+The Software should not materially contribute to warfare or the development or operation of systems intended to facilitate armed conflict.
+
+- *Freedom carries responsibility.*
+The Licensor grants broad freedoms while reserving the right to prohibit uses fundamentally incompatible with these principles.
+
+
+* 1. Definitions
+
+For purposes of this License:
+** 1.1 Software
+“Software” means the original work licensed under this License, including its source code, documentation, examples, configuration files, build systems, and any accompanying materials distributed with it.
+
+** 1.2 Contributor
+"Contributor" means any individual or legal entity that intentionally submits a Contribution for inclusion in the Software and whose Contribution is accepted by the Licensor or an authorized maintainer.
+
+** 1.3 Contribution
+"Contribution" means any source code, documentation, configuration, test, asset, or other material intentionally submitted for inclusion in the Software, including modifications, additions, bug fixes, or enhancements.
+
+** 1.4 Accepted Contribution
+Accepted Contribution means a Contribution that has been incorporated into the Software by the Licensor or an authorized maintainer.
+
+** 1.5 Licensor
+"Licensor" means the copyright holder, or any person or legal entity authorized by the copyright holder, that grants rights under this License.
+
+** 1.6 Licensee
+"Licensee" means any individual or legal entity exercising rights granted under this License.
+
+** 1.7 Derivative Work
+“Derivative Work” means any modification, adaptation, translation, extension, or other work based substantially upon the Software as recognized under applicable copyright law.
+
+** 1.8 Materially Contributes
+Materially Contributes means contributing in a substantial, direct, or reasonably foreseeable manner to the design, development, training, improvement, deployment, operation, or effectiveness of a system, rather than through incidental, insignificant, or generalized use.
+
+** 1.9 Generative Artificial Intelligence System
+A “Generative Artificial Intelligence System” means any computational model or software system whose primary purpose is generating expressive or creative output from learned statistical representations, including but not limited to:
+- natural language
+- source code
+- images
+- audio
+- music
+- video
+- three-dimensional assets
+- synthetic media
+- multimodal content
+
+This definition includes foundation models, large language models, diffusion models, generative transformers, multimodal generative models, and substantially similar technologies regardless of implementation.
+
+** 1.10 Permitted Machine Learning
+“Permitted Machine Learning” means machine learning or statistical techniques whose primary purpose is analysis rather than content generation, including but not limited to:
+- classification
+- regression
+- anomaly detection
+- forecasting
+- optimization
+- recommendation
+- control systems
+- accessibility technologies
+- robotics
+- industrial automation
+- medical diagnosis
+- scientific modeling
+- engineering simulation
+
+Such use is permitted provided it does not materially contribute to the development, evaluation, improvement, or operation of a Generative Artificial Intelligence System.
+
+** 1.11 Military Use
+“Military Use” means use of the Software by, for, or on behalf of any armed force, military organization, defense contractor, intelligence organization, or comparable entity where the Software Materially Contributes to:
+- development of weapons
+- operation of weapons
+- military targeting
+- surveillance supporting armed conflict
+- combat systems
+- command and control systems
+- military intelligence
+- combat logistics
+- military planning
+- military training for armed conflict
+- deployment or execution of military operations
+
+Military Use does not include:
+- disaster response
+- humanitarian relief
+- medical treatment
+- civilian evacuation
+- search and rescue
+
+** 1.12 Training
+“Training” includes collecting, preprocessing, indexing, embedding, fine-tuning, reinforcement learning, retrieval augmentation, parameter optimization, evaluation, benchmarking, or any substantially similar activity intended to improve or enable an artificial intelligence system.
+
+* 2. Grant of Rights
+Subject to the conditions of this License, the Licensor grants each Licensee a worldwide, non-exclusive, royalty-free license to:
+- reproduce the software
+- use the Software
+- study the Software
+- modify the Software
+- create Derivative Works
+- redistribute the Software
+- redistribute Derivative Works
+
+Commercial use is expressly permitted except where otherwise prohibited by this License.
+
+* 3. Permitted Uses
+The Licensor expressly permits, among others:
+- scientific research
+- academic research
+- engineering
+- education
+- commercial software development
+- accessibility technologies
+- robotics
+- embedded systems
+- medical research
+- healthcare
+- industrial automation
+- infrastructure
+- cybersecurity
+- data analysis
+- non-generative machine learning
+
+No permission is required beyond compliance with this License.
+
+* 4. Prohibited Uses
+The following uses are prohibited.
+
+** 4.1 Generative Artificial Intelligence
+The Software, in whole or in part, may not be used to:
+- develop
+- train
+- fine-tune
+- benchmark
+- evaluate
+- improve
+- operate
+- maintain
+
+a Generative Artificial Intelligence System.
+
+** 4.2 Training Data
+The Software may not be:
+- included within training datasets
+- tokenized for model training
+- embedded into retrieval systems
+- indexed for generative retrieval
+- used as prompt context for automated code generation
+- used as reference material for creation or improvement of Generative Artificial Intelligence Systems
+
+** 4.3 Derivative AI Works
+No person may use a Generative Artificial Intelligence System to generate derivative versions of the Software for redistribution where the Software materially contributed to the generated output.
+
+** 4.4 Military Applications
+The Software shall not be used for any Military Use as defined in Section 1.5.
+
+** 4.5 Circumvention
+No person may intentionally circumvent these restrictions through intermediaries, affiliates, contractors, automated systems, or substantially equivalent technical means.
+
+* 5. Redistribution
+Redistributions of the Software or Derivative Works must:
+- retain this License in its entirety
+- retain all copyright notices
+- identify significant modifications made to the Software
+- include a copy of this License with every distribution
+
+* 6. Warranty
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+* 7. Limitation of Liability
+IN NO EVENT SHALL THE CONTRIBUTORS OR LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+* 8. Severability
+If any provision of this License is found unenforceable, the remaining provisions shall remain in effect to the maximum extent permitted by law.
+
+* 9. Remedies and Remediation
+In the event that a court of competent jurisdiction determines that a party has materially violated this License, the violating party shall be liable for all remedies available under applicable law.
+
+Where a violation results in demonstrable harm to individuals, communities, organizations, or other affected parties, the Licensor may seek appropriate legal remedies, including but not limited to monetary damages, injunctive relief, corrective action, remediation efforts, and other equitable remedies as permitted by law.
+
+The court may consider the nature, severity, duration, and consequences of the violation when determining appropriate remedies. Such remedies may include reasonable actions intended to mitigate, repair, or offset harms caused by the violation.
+
+Nothing in this License shall be interpreted as granting the Licensor authority to impose penalties, damages, or obligations beyond those available through applicable legal processes.
+
+The purpose of remediation under this License is not punitive enforcement, but restoration of affected parties and reduction of ongoing harm resulting from unauthorized use.
+
+* 10. Patent Grant
+Each Contributor automatically grants every Licensee a perpetual, worldwide, royalty-free license to use any patents owned or controlled by that Contributor that would otherwise be infringed by using, modifying, or distributing the Contributor's Accepted Contribution as part of the Software.
+
+* 11. Patent Retaliation
+If any Licensee initiates patent litigation alleging that the Software or a Contribution infringes a patent, all patent licenses granted under this License to that Licensee terminate upon commencement of such litigation.
+
+* 12. Termination
+Any rights granted under this License terminate automatically upon material violation of its terms.
+
+* 13. Reinstatement
+Rights under this License may be reinstated if the violation ceases and the Licensor expressly reinstates the License, or as ordered by a court of competent jurisdiction.
+
+* 14. Interpretation
+This License shall be interpreted according to the following principles:
+- Permission should be construed broadly where ambiguity exists regarding ordinary software development
+- Restrictions should be construed according to their stated ethical purpose without extending beyond their objective definitions
+- Scientific, educational, medical, accessibility, and humanitarian applications are presumed permitted unless they materially violate an explicit prohibition
+- Ambiguity regarding Generative Artificial Intelligence shall be resolved according to the primary purpose of the system rather than incidental functionality
